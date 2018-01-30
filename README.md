@@ -7,6 +7,6 @@ Steps to install and run the project:
 
 2. execute command: npm install
 
-3. change value of the string constant API_KEY in the index.js file and enter your own API key for openweathermap.org
+3. change value of the string constant API_KEY in the src/actions/index.js file and enter your own API key for openweathermap.org
 
 4. execute command: npm start
