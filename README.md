@@ -3,10 +3,10 @@ It gives real time temperature, pressure and humidity details for the cities ent
 
 Steps to install and run the project:
 
-1. cd into the project folder
+1. Change current directory to the project's directory
 
-2. execute command: npm install
+2. Execute command: npm install
 
-3. change value of the string constant API_KEY in the src/actions/index.js file and enter your own API key for openweathermap.org
+3. Change value of the string constant API_KEY in the src/actions/index.js file and enter your own API key for openweathermap.org
 
-4. execute command: npm start
+4. Execute command: npm start
